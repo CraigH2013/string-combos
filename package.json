@@ -1,0 +1,29 @@
+{
+  "name": "string-combos",
+  "version": "1.0.0",
+  "description": "Easily create a combination of strings",
+  "keywords": ["string", "combination", "generator"],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraigH2013/string-combos.git"
+  },
+  "author": "Craig Harrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CraigH2013/string-combos/issues"
+  },
+  "homepage": "https://github.com/CraigH2013/string-combos#readme",
+  "dependencies": {
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0",
+    "jest": "^22.4.3"
+  }
+}
