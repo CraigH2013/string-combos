@@ -2,7 +2,7 @@
   "name": "string-combos",
   "version": "1.0.0",
   "description": "Easily create a combination of strings",
-  "keywords": ["string", "combination", "generator"],
+  "keywords": ["string", "combos", "combinations", "generator"],
   "main": "index.js",
   "scripts": {
     "test": "jest"
